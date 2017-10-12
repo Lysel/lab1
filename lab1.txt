@@ -1,0 +1,24 @@
+L.1 Kyle Larson, Vikas Chandan, Lysel Garavelli
+L.2 None
+L.3 7.5 hours
+L.4 Agree to be graded
+
+
+Part 1
+1.1 38 (objective value = inf)
+1.2 8568 (objective value < 0.0001)
+1.3 812 (objective value < 0.0001)
+1.4 2235 (objective value < 0.0001)
+1.5 85730 (objective value < 0.0001)
+1.6 8529 (objective value < 0.0001)
+
+
+Part 2
+4.21350 17.75358 74.80472 315.18970 
+0.99390 0.98784 0.98181 0.97582 
+-3.52200 12.40448 -43.68859 153.87123 
+1.00000 1.00000 1.00000 1.00000 
+-10.00000 100.00000 -1000.00000 10000.00000 
+
+
+
